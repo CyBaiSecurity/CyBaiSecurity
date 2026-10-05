@@ -16,7 +16,7 @@ Information security student in the Philippines. I build small systems, then tes
 
 ## Public repositories
 
-- [RootMap](https://github.com/CyBaiSecurity/rootmap) — map and checklist for web testing and DFIR. Plain HTML, CSS, and JavaScript. No build step.
+- [RootMap](https://github.com/CyBaiSecurity/rootmap) — map and checklist for web testing and DFIR. Plain HTML, CSS, and JavaScript. No build step. [Live site](https://cybaisecurity.github.io/rootmap/).
 - [MusicZ](https://github.com/CyBaiSecurity/MusicZ) — Android app that saves a YouTube link as an MP3 and plays it.
 - [ROQ Model Visualizer](https://github.com/CyBaiSecurity/ROQ-Model-Visualizer) — browser tool for relationship-oriented questioning diagrams. [Live site](https://cybaisecurity.github.io/ROQ-Model-Visualizer/).
 - [Pi Learning Lab](https://github.com/CyBaiSecurity/pi-learning-lab) — a folder a coding agent can teach from. The learner does the retrieval.
