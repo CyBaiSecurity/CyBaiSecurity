@@ -19,5 +19,5 @@ TRON Cup 2026 nationals champion. SACRED took best security, best system, and pe
 Projects and the longer introduction are on the portfolio.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,java,js,php,html,css,bash,linux,docker,git,nextjs,laravel&perline=8&theme=light" alt="Python, Kotlin, Java, JavaScript, PHP, HTML, CSS, Bash, Linux, Docker, Git, Next.js, and Laravel">
+  <img src="https://skillicons.dev/icons?i=python,kotlin,java,js,ts,php,html,css,bash,linux,docker,git,nodejs,nextjs,react,laravel&perline=8&theme=light" alt="Python, Kotlin, Java, JavaScript, TypeScript, PHP, HTML, CSS, Bash, Linux, Docker, Git, Node.js, Next.js, React, and Laravel">
 </p>
