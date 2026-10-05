@@ -1,29 +1,23 @@
-# Dave Lazarte
+<p align="center">
+  <img src="banner.png" alt="Coral banner for an information security student: detection, automation, and Linux" width="100%">
+</p>
 
-Information security student in the Philippines. I build small systems, then test and document them.
+<p align="center">
+  <a href="https://cybaisec.pages.obsidian-shards.com/Dave-Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-f5776b?style=for-the-badge&logoColor=white"></a>
+  <a href="https://tryhackme.com/p/CyBaiSec"><img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-f5776b?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
+  <a href="https://profile.hackthebox.com/profile/019db3c3-1f80-738a-af69-4d3b30c280c4"><img alt="Hack The Box" src="https://img.shields.io/badge/Hack_The_Box-f5776b?style=for-the-badge&logo=hackthebox&logoColor=white"></a>
+  <a href="https://learn.cylabacademy.org/users/M1k0to"><img alt="CyLab Academy" src="https://img.shields.io/badge/CyLab_Academy-f5776b?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/gilbert-dave-lazarte-97031131a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-f5776b?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
-[Portfolio](https://cybaisec.pages.obsidian-shards.com/Dave-Portfolio/) · [LinkedIn](https://www.linkedin.com/in/gilbert-dave-lazarte-97031131a/) · [TryHackMe](https://tryhackme.com/p/CyBaiSec) · [Hack The Box](https://profile.hackthebox.com/profile/019db3c3-1f80-738a-af69-4d3b30c280c4) · [CyLab](https://learn.cylabacademy.org/users/M1k0to) · cybaisec@gmail.com
+I'm Dave Lazarte, an information security student in the Philippines. I build small systems, then test them and write down what they actually do.
 
-## Tech stack
+SOC and blue-team work is the target: Linux, detection, and security testing. Practice stays on TryHackMe, Hack The Box, and CyLab Academy.
 
-**Systems.** Linux, Git, Docker, networking, server management, Proxmox, CI.
+TRON Cup 2026 nationals champion. SACRED took best security, best system, and people's choice.
 
-**Security work.** Wazuh, Security Onion, the Elastic Stack, Wireshark, Nmap, Burp Suite, Nuclei, httpx, Katana.
+Projects and the longer introduction are on the portfolio.
 
-**Languages.** Python, Kotlin, Java, PHP, JavaScript.
-
-**Frameworks.** Laravel, Next.js. Android apps in Kotlin.
-
-## Public repositories
-
-- [RootMap](https://github.com/CyBaiSecurity/rootmap) — map and checklist for web testing and DFIR. Plain HTML, CSS, and JavaScript. No build step. [Live site](https://cybaisecurity.github.io/rootmap/).
-- [MusicZ](https://github.com/CyBaiSecurity/MusicZ) — Android app that saves a YouTube link as an MP3 and plays it.
-- [ROQ Model Visualizer](https://github.com/CyBaiSecurity/ROQ-Model-Visualizer) — browser tool for relationship-oriented questioning diagrams. [Live site](https://cybaisecurity.github.io/ROQ-Model-Visualizer/).
-- [Pi Learning Lab](https://github.com/CyBaiSecurity/pi-learning-lab) — a folder a coding agent can teach from. The learner does the retrieval.
-- [DayVector](https://github.com/CyBaiSecurity/DayVector) — local dashboard that turns tasks into Google Calendar blocks.
-- [Vulnsite](https://github.com/CyBaiSecurity/vulnwebsite) — PHP app I attack and patch on my own machine.
-- [Port scanner](https://github.com/CyBaiSecurity/Simple-Python-Port-Scanner) — multithreaded TCP scanner. The default target is localhost.
-
-## Record
-
-TRON Cup 2026, nationals champion. SACRED: best security, best system, people's choice, and first in presentation. Hack4Gov 5: fifth of twelve, highest scorer on the team.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,kotlin,java,js,php,html,css,bash,linux,docker,git,nextjs,laravel&perline=8&theme=light" alt="Python, Kotlin, Java, JavaScript, PHP, HTML, CSS, Bash, Linux, Docker, Git, Next.js, and Laravel">
+</p>
