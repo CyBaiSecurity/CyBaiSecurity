@@ -10,11 +10,9 @@
   <a href="https://www.linkedin.com/in/gilbert-dave-lazarte-97031131a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0c7a3e?style=for-the-badge&logo=linkedin&logoColor=f4f7f5"></a>
 </p>
 
-I'm Dave Lazarte, an information security student in the Philippines. I build small systems, then test them and write down what they actually do.
+I'm Dave Lazarte, an information security student in the Philippines. I like exploring different things, and I make tools and systems to improve something when I can see a better way to do it.
 
 SOC and blue-team work is the target: Linux, detection, and security testing. Practice stays on TryHackMe, Hack The Box, and CyLab Academy.
-
-TRON Cup 2026 nationals champion. SACRED took best security, best system, and people's choice.
 
 Projects and the longer introduction are on the portfolio.
 
