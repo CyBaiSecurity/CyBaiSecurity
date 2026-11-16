@@ -57,4 +57,6 @@ I'm open to Junior SOC Analyst, developer and IT support roles.
 | [ScanZ](https://cybaisec.pages.obsidian-shards.com/Dave-Portfolio/work/scanz/) | Android network scanner | Kotlin, Android |
 | [Pcap-Triage](https://cybaisec.pages.obsidian-shards.com/Dave-Portfolio/work/pcap-triage/) | Packet capture triage CLI | Python, TShark |
 
+Public code: [ScanZ](https://github.com/CyBaiSecurity/ScanZ) · [RootMap](https://github.com/CyBaiSecurity/rootmap) · [Organice](https://github.com/CyBaiSecurity/Organice) · [MusicZ](https://github.com/CyBaiSecurity/MusicZ) · [Vulnsite](https://github.com/CyBaiSecurity/vulnwebsite) · [Pi Learning Lab](https://github.com/CyBaiSecurity/pi-learning-lab)
+
 <p align="center"><sub><code>// more projects, case studies and resumes on the <a href="https://cybaisec.pages.obsidian-shards.com/Dave-Portfolio/">portfolio</a></code></sub></p>
