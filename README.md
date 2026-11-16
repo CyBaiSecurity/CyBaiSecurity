@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Dave Lazarte, Junior SOC Analyst. Project Manager Intern at TalaSora Prime and CTF player, also open to developer and IT support roles." width="100%">
+  <img src="banner.png" alt="Dave Lazarte, cybersecurity-focused developer. Project Manager Intern at TalaSora Prime and CTF player, open to junior SOC analyst, developer and IT support roles." width="100%">
 </p>
 
 <p align="center">
@@ -12,9 +12,9 @@
 
 ### Hi, I'm Dave
 
-Junior SOC analyst from Davao, Philippines. I lead a 12-person intern team and support the infrastructure at TalaSora Prime, an early-stage venture. Outside work, I compete in CTFs and enjoy exploring new technology.
+Cybersecurity-focused developer from Davao, Philippines. I lead a 12-person intern team and support the infrastructure at TalaSora Prime, an early-stage venture. Outside work, I compete in CTFs and enjoy exploring new technology.
 
-I'm looking for Junior SOC Analyst roles, and I'm also open to developer and IT support work.
+I'm open to Junior SOC Analyst, developer and IT support roles.
 
 ### Now
 
