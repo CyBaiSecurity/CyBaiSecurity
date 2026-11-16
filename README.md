@@ -19,7 +19,7 @@ I'm open to Junior SOC Analyst, developer and IT support roles.
 ### Now
 
 - **Project Manager Intern, TalaSora Prime** (Sep 2026 to present). I lead a 12-person intern team: tasks, standups and reviews. I also help run Proxmox/KVM, Docker, Cloudflare, DNS, WireGuard, OPNsense and CI/CD.
-- **Founder and President, YanoSec** (Aug 2026 to present). A cybersecurity community where I organise CTF events and learning sessions.
+- **Founder and President, YanoSec** (Aug 2026 to present). A student-driven cybersecurity community where we organise CTF events and learning sessions.
 - **Before that:** IT Support and Data Encoder at SABS (Jun 2022 to Aug 2026): Windows recovery, DNS, printer and hardware troubleshooting.
 
 ### Highlights
