@@ -31,19 +31,19 @@ I'm open to Junior SOC Analyst, developer and IT support roles.
 
 <table>
   <tr>
-    <td valign="middle"><b>Blue team</b></td>
+    <td valign="middle"><b>Blue team</b><br><sub><code>watch, log, triage</code></sub></td>
     <td><img alt="Wazuh" src="https://img.shields.io/badge/Wazuh-070707?style=for-the-badge&logo=wazuh&logoColor=dddddd"> <img alt="Elastic Stack" src="https://img.shields.io/badge/Elastic%20Stack-070707?style=for-the-badge&logo=elasticstack&logoColor=dddddd"> <img alt="Security Onion" src="https://img.shields.io/badge/Security%20Onion-070707?style=for-the-badge"> <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-070707?style=for-the-badge&logo=wireshark&logoColor=dddddd"></td>
   </tr>
   <tr>
-    <td valign="middle"><b>Offensive</b></td>
+    <td valign="middle"><b>Offensive</b><br><sub><code>break it first</code></sub></td>
     <td><img alt="Nmap" src="https://img.shields.io/badge/Nmap-070707?style=for-the-badge"> <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-070707?style=for-the-badge&logo=burpsuite&logoColor=dddddd"> <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-070707?style=for-the-badge&logo=metasploit&logoColor=dddddd"> <img alt="Hashcat" src="https://img.shields.io/badge/Hashcat-070707?style=for-the-badge"> <img alt="Nuclei" src="https://img.shields.io/badge/Nuclei-070707?style=for-the-badge"></td>
   </tr>
   <tr>
-    <td valign="middle"><b>Languages</b></td>
+    <td valign="middle"><b>Languages</b><br><sub><code>and the frameworks on top</code></sub></td>
     <td><img alt="Python" src="https://img.shields.io/badge/Python-070707?style=for-the-badge&logo=python&logoColor=dddddd"> <img alt="PHP" src="https://img.shields.io/badge/PHP-070707?style=for-the-badge&logo=php&logoColor=dddddd"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-070707?style=for-the-badge&logo=javascript&logoColor=dddddd"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-070707?style=for-the-badge&logo=typescript&logoColor=dddddd"> <img alt="Java" src="https://img.shields.io/badge/Java-070707?style=for-the-badge&logo=openjdk&logoColor=dddddd"> <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-070707?style=for-the-badge&logo=kotlin&logoColor=dddddd"> <img alt="Laravel" src="https://img.shields.io/badge/Laravel-070707?style=for-the-badge&logo=laravel&logoColor=dddddd"> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-070707?style=for-the-badge&logo=nextdotjs&logoColor=dddddd"></td>
   </tr>
   <tr>
-    <td valign="middle"><b>Infra</b></td>
+    <td valign="middle"><b>Infra</b><br><sub><code>keep it running</code></sub></td>
     <td><img alt="Linux" src="https://img.shields.io/badge/Linux-070707?style=for-the-badge&logo=linux&logoColor=dddddd"> <img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-070707?style=for-the-badge&logo=proxmox&logoColor=dddddd"> <img alt="Docker" src="https://img.shields.io/badge/Docker-070707?style=for-the-badge&logo=docker&logoColor=dddddd"> <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-070707?style=for-the-badge&logo=cloudflare&logoColor=dddddd"> <img alt="WireGuard" src="https://img.shields.io/badge/WireGuard-070707?style=for-the-badge&logo=wireguard&logoColor=dddddd"> <img alt="OPNsense" src="https://img.shields.io/badge/OPNsense-070707?style=for-the-badge&logo=opnsense&logoColor=dddddd"> <img alt="Git" src="https://img.shields.io/badge/Git-070707?style=for-the-badge&logo=git&logoColor=dddddd"> <img alt="CI/CD" src="https://img.shields.io/badge/CI/CD-070707?style=for-the-badge&logo=forgejo&logoColor=dddddd"></td>
   </tr>
 </table>
