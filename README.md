@@ -1,21 +1,60 @@
 <p align="center">
-  <img src="banner.png" alt="Dark banner: Dave Lazarte, the terminal card, and matrix rain" width="100%">
+  <img src="banner.png" alt="Dave Lazarte, Junior SOC Analyst. Project Manager Intern at TalaSora Prime and CTF player, also open to developer and IT support roles." width="100%">
 </p>
 
 <p align="center">
-  <a href="https://cybaisec.pages.obsidian-shards.com/Dave-Portfolio/"><img alt="Portfolio" height="34" src="badges/portfolio.png"></a>
-  <a href="https://tryhackme.com/p/CyBaiSec"><img alt="TryHackMe" height="34" src="badges/tryhackme.png"></a>
-  <a href="https://profile.hackthebox.com/profile/019db3c3-1f80-738a-af69-4d3b30c280c4"><img alt="Hack The Box" height="34" src="badges/hackthebox.png"></a>
-  <a href="https://learn.cylabacademy.org/users/M1k0to"><img alt="CyLab Academy" height="34" src="badges/cylab.png"></a>
-  <a href="https://www.linkedin.com/in/gilbert-dave-lazarte-97031131a/"><img alt="LinkedIn" height="34" src="badges/linkedin.png"></a>
+  <a href="https://cybaisec.pages.obsidian-shards.com/Dave-Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-070707?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/gilbert-dave-lazarte-97031131a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-070707?style=for-the-badge"></a>
+  <a href="https://tryhackme.com/p/CyBaiSec"><img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-070707?style=for-the-badge&logo=tryhackme&logoColor=dddddd"></a>
+  <a href="https://profile.hackthebox.com/profile/019db3c3-1f80-738a-af69-4d3b30c280c4"><img alt="Hack The Box" src="https://img.shields.io/badge/Hack%20The%20Box-070707?style=for-the-badge&logo=hackthebox&logoColor=dddddd"></a>
+  <a href="mailto:cybaisec@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-070707?style=for-the-badge&logo=gmail&logoColor=dddddd"></a>
 </p>
 
-I'm Dave Lazarte, an information security student in the Philippines. I like exploring different things, and I make tools and systems to improve something when I can see a better way to do it.
+### Hi, I'm Dave
 
-SOC and blue-team work is the target: Linux, detection, and security testing. Practice stays on TryHackMe, Hack The Box, and CyLab Academy.
+Junior SOC analyst from Davao, Philippines. I lead a 12-person intern team and support the infrastructure at TalaSora Prime, an early-stage venture. Outside work, I compete in CTFs and enjoy exploring new technology.
 
-Projects and the longer introduction are on the portfolio.
+I'm looking for Junior SOC Analyst roles, and I'm also open to developer and IT support work.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,java,js,ts,php,html,css,bash,linux,docker,git,nodejs,nextjs,react,laravel&perline=8&theme=light" alt="Python, Kotlin, Java, JavaScript, TypeScript, PHP, HTML, CSS, Bash, Linux, Docker, Git, Node.js, Next.js, React, and Laravel">
-</p>
+### Now
+
+- **Project Manager Intern, TalaSora Prime** (Sep 2026 to present). I lead a 12-person intern team: tasks, standups and reviews. I also help run Proxmox/KVM, Docker, Cloudflare, DNS, WireGuard, OPNsense and CI/CD.
+- **Founder and President, YanoSec** (Aug 2026 to present). A cybersecurity community where I organise CTF events and learning sessions.
+- **Before that:** IT Support and Data Encoder at SABS (Jun 2022 to Aug 2026): Windows recovery, DNS, printer and hardware troubleshooting.
+
+### Highlights
+
+- **TRON Cup 2026 national champion** with Team Zyber, at the Cyber Defense Exercise National Finals run by the Philippine Army.
+- **TryHackMe top 5%**, 90+ rooms.
+
+### Stack
+
+<table>
+  <tr>
+    <td valign="middle"><b>Blue team</b><br><sub><code>watch, log, triage</code></sub></td>
+    <td><img alt="Wazuh" src="https://img.shields.io/badge/Wazuh-070707?style=for-the-badge&logo=wazuh&logoColor=dddddd"> <img alt="Elastic Stack" src="https://img.shields.io/badge/Elastic%20Stack-070707?style=for-the-badge&logo=elasticstack&logoColor=dddddd"> <img alt="Security Onion" src="https://img.shields.io/badge/Security%20Onion-070707?style=for-the-badge"> <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-070707?style=for-the-badge&logo=wireshark&logoColor=dddddd"></td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Offensive</b><br><sub><code>break it first</code></sub></td>
+    <td><img alt="Nmap" src="https://img.shields.io/badge/Nmap-070707?style=for-the-badge"> <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-070707?style=for-the-badge&logo=burpsuite&logoColor=dddddd"> <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-070707?style=for-the-badge&logo=metasploit&logoColor=dddddd"> <img alt="Hashcat" src="https://img.shields.io/badge/Hashcat-070707?style=for-the-badge"> <img alt="Nuclei" src="https://img.shields.io/badge/Nuclei-070707?style=for-the-badge"></td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Languages</b><br><sub><code>and the frameworks on top</code></sub></td>
+    <td><img alt="Python" src="https://img.shields.io/badge/Python-070707?style=for-the-badge&logo=python&logoColor=dddddd"> <img alt="PHP" src="https://img.shields.io/badge/PHP-070707?style=for-the-badge&logo=php&logoColor=dddddd"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-070707?style=for-the-badge&logo=javascript&logoColor=dddddd"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-070707?style=for-the-badge&logo=typescript&logoColor=dddddd"> <img alt="Java" src="https://img.shields.io/badge/Java-070707?style=for-the-badge&logo=openjdk&logoColor=dddddd"> <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-070707?style=for-the-badge&logo=kotlin&logoColor=dddddd"> <img alt="Laravel" src="https://img.shields.io/badge/Laravel-070707?style=for-the-badge&logo=laravel&logoColor=dddddd"> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-070707?style=for-the-badge&logo=nextdotjs&logoColor=dddddd"></td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Infra</b><br><sub><code>keep it running</code></sub></td>
+    <td><img alt="Linux" src="https://img.shields.io/badge/Linux-070707?style=for-the-badge&logo=linux&logoColor=dddddd"> <img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-070707?style=for-the-badge&logo=proxmox&logoColor=dddddd"> <img alt="Docker" src="https://img.shields.io/badge/Docker-070707?style=for-the-badge&logo=docker&logoColor=dddddd"> <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-070707?style=for-the-badge&logo=cloudflare&logoColor=dddddd"> <img alt="WireGuard" src="https://img.shields.io/badge/WireGuard-070707?style=for-the-badge&logo=wireguard&logoColor=dddddd"> <img alt="OPNsense" src="https://img.shields.io/badge/OPNsense-070707?style=for-the-badge&logo=opnsense&logoColor=dddddd"> <img alt="Git" src="https://img.shields.io/badge/Git-070707?style=for-the-badge&logo=git&logoColor=dddddd"> <img alt="CI/CD" src="https://img.shields.io/badge/CI/CD-070707?style=for-the-badge&logo=forgejo&logoColor=dddddd"></td>
+  </tr>
+</table>
+
+### Selected work
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [SACRED](https://cybaisec.pages.obsidian-shards.com/Dave-Portfolio/work/sacred/) | Parish records system. I handled backend and QA. | PHP, MongoDB, Docker |
+| [Atomic](https://cybaisec.pages.obsidian-shards.com/Dave-Portfolio/work/atomic/) | Home SOC lab on KVM | KVM, Wazuh, Ubuntu |
+| [ScanZ](https://cybaisec.pages.obsidian-shards.com/Dave-Portfolio/work/scanz/) | Android network scanner | Kotlin, Android |
+| [Pcap-Triage](https://cybaisec.pages.obsidian-shards.com/Dave-Portfolio/work/pcap-triage/) | Packet capture triage CLI | Python, TShark |
+
+<p align="center"><sub><code>// more projects, case studies and resumes on the <a href="https://cybaisec.pages.obsidian-shards.com/Dave-Portfolio/">portfolio</a></code></sub></p>
