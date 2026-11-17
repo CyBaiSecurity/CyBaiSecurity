@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://cybaisec.pages.obsidian-shards.com/Dave-Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-070707?style=for-the-badge"></a>
+  <a href="https://dave.yanosec.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-070707?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/gilbert-dave-lazarte-97031131a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-070707?style=for-the-badge"></a>
   <a href="https://tryhackme.com/p/CyBaiSec"><img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-070707?style=for-the-badge&logo=tryhackme&logoColor=dddddd"></a>
   <a href="https://profile.hackthebox.com/profile/019db3c3-1f80-738a-af69-4d3b30c280c4"><img alt="Hack The Box" src="https://img.shields.io/badge/Hack%20The%20Box-070707?style=for-the-badge&logo=hackthebox&logoColor=dddddd"></a>
@@ -52,11 +52,11 @@ I'm open to Junior SOC Analyst, developer and IT support roles.
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [SACRED](https://cybaisec.pages.obsidian-shards.com/Dave-Portfolio/work/sacred/) | Parish records system. I handled backend and QA. | PHP, MongoDB, Docker |
-| [Atomic](https://cybaisec.pages.obsidian-shards.com/Dave-Portfolio/work/atomic/) | Home SOC lab on KVM | KVM, Wazuh, Ubuntu |
-| [ScanZ](https://cybaisec.pages.obsidian-shards.com/Dave-Portfolio/work/scanz/) | Android network scanner | Kotlin, Android |
-| [Pcap-Triage](https://cybaisec.pages.obsidian-shards.com/Dave-Portfolio/work/pcap-triage/) | Packet capture triage CLI | Python, TShark |
+| [SACRED](https://dave.yanosec.com/work/sacred/) | Parish records system. I handled backend and QA. | PHP, MongoDB, Docker |
+| [Atomic](https://dave.yanosec.com/work/atomic/) | Home SOC lab on KVM | KVM, Wazuh, Ubuntu |
+| [ScanZ](https://dave.yanosec.com/work/scanz/) | Android network scanner | Kotlin, Android |
+| [Pcap-Triage](https://dave.yanosec.com/work/pcap-triage/) | Packet capture triage CLI | Python, TShark |
 
 Public code: [ScanZ](https://github.com/CyBaiSecurity/ScanZ) · [RootMap](https://github.com/CyBaiSecurity/rootmap) · [Organice](https://github.com/CyBaiSecurity/Organice) · [MusicZ](https://github.com/CyBaiSecurity/MusicZ) · [Vulnsite](https://github.com/CyBaiSecurity/vulnwebsite) · [Pi Learning Lab](https://github.com/CyBaiSecurity/pi-learning-lab)
 
-<p align="center"><sub><code>// more projects, case studies and resumes on the <a href="https://cybaisec.pages.obsidian-shards.com/Dave-Portfolio/">portfolio</a></code></sub></p>
+<p align="center"><sub><code>// more projects, case studies and resumes on the <a href="https://dave.yanosec.com/">portfolio</a></code></sub></p>
